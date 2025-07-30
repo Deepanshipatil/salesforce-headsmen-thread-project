@@ -49,3 +49,6 @@ Use Anonymous Apex or Apex Scheduler to schedule the batch job.
 
 Ensure your Product__c object contains sample data with Stock_Quantity__c < 10 for testing.
 
+
+Demo link:- https://drive.google.com/file/d/1EJN1mYuc6vmMdmfb3qF7khCOWvNiaDjF/view?usp=drive_link
+
